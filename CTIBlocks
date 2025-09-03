@@ -1,7 +1,10 @@
-## ##
-##
-##  Block domains for internal dns recursion servers
-##
-## ##
+#
+#
+#  Block domains for internal dns recursion servers
+#
+#
+#  =====================================
+#  Title: Hosts contributed through CTI Infomation
 
 0.0.0.0 www.awadekalbco.org
+0.0.0.0 ad-assets.futurecdn.net
